@@ -9,4 +9,4 @@ function multiplesOf3And5(number) {
   return total;
 }
 
-multiplesOf3or5(1000);
+multiplesOf3And5(1000);
